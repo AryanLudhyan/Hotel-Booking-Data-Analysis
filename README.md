@@ -1,4 +1,4 @@
-<img width="1507" height="878" alt="MARKET SEGMENT" src="https://github.com/user-attachments/assets/43d98d17-9e83-4349-8b24-6a4db0d3814d" />
+
 
 # Hotel Booking Data Analysis
 
