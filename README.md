@@ -55,12 +55,12 @@ hotel_booking.csv
 ---
 
 ## Market Segment Distribution
-![Market Segment Distribution](<src="https://github.com/user-attachments/assets/43d98d17-9e83-4349-8b24-6a4db0d3814d")
+![Market Segment Distribution](images/MARKET%20SEGMENT.PNG)
 
 ---
 
 ## Most Reserved Room Types
-![Room Types](images/room_types.png)
+![Room Types](images/MOST%20RESERVED%20ROOM%20TYPE.png)
 
 ---
 
