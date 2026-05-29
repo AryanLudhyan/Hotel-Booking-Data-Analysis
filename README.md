@@ -87,19 +87,13 @@ hotel_booking.csv
 git clone <your-repo-link>
 ```
 
-2. Install required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open Jupyter Notebook
+2. Open Jupyter Notebook
 
 ```bash
 jupyter notebook
 ```
 
-4. Run all cells in:
+3. Run all cells in:
 ```txt
 Hotel_booking.ipynb
 ```
