@@ -45,7 +45,7 @@ hotel_booking.csv
 # Project Visualizations
 
 ## Monthly Booking Trends
-![Monthly Booking Trends](images/Monthly%20Booking%20Trends)
+![Monthly Booking Trends](images/Monthly%20Booking%20Trends.png)
 
 ---
 
