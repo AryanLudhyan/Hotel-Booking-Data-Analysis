@@ -55,7 +55,7 @@ hotel_booking.csv
 ---
 
 ## Market Segment Distribution
-![Market Segment Distribution](images/MARKET%20SEGMENT.PNG)
+![Market Segment Distribution](images/MARKET%20SEGMENT.png)
 
 ---
 
