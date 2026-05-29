@@ -79,24 +79,39 @@ hotel_booking.csv
 
 ---
 
-## How to Run
+Folder Structure
+Hotel-Booking-Analysis/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+│   └── hotel_booking.csv
+│
+├── notebook/
+│   └── Hotel_booking.ipynb
+│
+└── images/
+    ├── monthly_booking_trends.png
+    ├── adr_analysis.png
+    ├── market_segment.png
+    ├── room_types.png
+    └── customer_types.png
 
-1. Clone the repository
 
-```bash
+---
+
+--- 
+How to Run
+Clone the repository
 git clone <your-repo-link>
-```
-
-2. Open Jupyter Notebook
-
-```bash
+Install required libraries
+pip install -r requirements.txt
+Open Jupyter Notebook
 jupyter notebook
-```
-
-3. Run all cells in:
-```txt
+Run all cells in:
 Hotel_booking.ipynb
-```
 
 ---
 
