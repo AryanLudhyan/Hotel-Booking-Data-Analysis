@@ -76,30 +76,6 @@ hotel_booking.csv
 - Some room types were consistently preferred over others.
 - ADR varied across customer categories and booking periods.
 
----
-
-## Folder Structure
-
-```txt
-Hotel-Booking-Analysis/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   └── hotel_booking.csv
-│
-├── notebook/
-│   └── Hotel_booking.ipynb
-│
-└── images/
-    ├── monthly_booking_trends.png
-    ├── adr_analysis.png
-    ├── market_segment.png
-    ├── room_types.png
-    └── customer_types.png
-```
 
 ---
 
