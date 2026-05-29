@@ -65,7 +65,7 @@ hotel_booking.csv
 ---
 
 ## Customer Type Analysis
-![Customer Type Analysis](images/customer_types.png)
+![Customer Type Analysis](images/Customer%20Type%20Analysis.png)
 
 ---
 
