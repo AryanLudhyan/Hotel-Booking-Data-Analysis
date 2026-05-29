@@ -45,12 +45,12 @@ hotel_booking.csv
 # Project Visualizations
 
 ## Monthly Booking Trends
-![Monthly Booking Trends](images/Monthly Booking Trends.png)
+![Monthly Booking Trends](images/Monthly%20Booking%20Trends)
 
 ---
 
 ## Average Daily Rate (ADR) Analysis
-![ADR Analysis](images/adr_analysis.png)
+![ADR Analysis](images/ADR.png)
 
 ---
 
