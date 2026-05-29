@@ -77,44 +77,6 @@ hotel_booking.csv
 - ADR varied across customer categories and booking periods.
 
 
----
-
-Folder Structure
-Hotel-Booking-Analysis/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   └── hotel_booking.csv
-│
-├── notebook/
-│   └── Hotel_booking.ipynb
-│
-└── images/
-    ├── monthly_booking_trends.png
-    ├── adr_analysis.png
-    ├── market_segment.png
-    ├── room_types.png
-    └── customer_types.png
-
-
----
-
---- 
-How to Run
-Clone the repository
-git clone <your-repo-link>
-Install required libraries
-pip install -r requirements.txt
-Open Jupyter Notebook
-jupyter notebook
-Run all cells in:
-Hotel_booking.ipynb
-
----
-
 ## Requirements
 
 ```txt
