@@ -10,7 +10,7 @@ The analysis includes:
 - Average Daily Rate (ADR) analysis
 - Market segment analysis
 - Customer type analysis
-- Room reservation trends
+- Room 
 - Repeated guest percentage
 
 ---
