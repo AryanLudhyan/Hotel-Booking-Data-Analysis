@@ -11,7 +11,7 @@ The analysis includes:
 - Market segment analysis
 - Customer type analysis
 - Room reservation trends
-- Repeated guest percentage
+- Repeated guest 
 
 ---
 
