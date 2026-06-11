@@ -9,7 +9,7 @@ The analysis includes:
 - Monthly booking trends
 - Average Daily Rate (ADR) analysis
 - Market segment analysis
-- 
+- Customer type analysis
 - Room reservation trends
 - Repeated guest percentage
 
