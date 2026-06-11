@@ -8,7 +8,7 @@ This project focuses on analyzing hotel booking data to uncover customer behavio
 The analysis includes:
 - Monthly booking trends
 - Average Daily Rate (ADR) analysis
-- Market segment analysi
+- Market segment analysiS
 - Customer type analysis
 - Room reservation trends
 - Repeated guest percentage
